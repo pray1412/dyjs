@@ -8,7 +8,7 @@
 // hostname = *.snssdk.com,*.amemv.com
 
 // [task_local]
-// */30 * * * * * https://raw.githubusercontent.com/passerby-b/Script/master/dyjs_new.js, tag=抖音极速版刷音符, enabled=true
+// */10 * * * * https://raw.githubusercontent.com/passerby-b/Script/master/dyjs_new.js, tag=抖音极速版刷音符, enabled=true
 
 //==========================Quantumultx=========================
 // [rewrite_local]
